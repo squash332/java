@@ -30,7 +30,7 @@ public class Test {
         //unos matrice A
         int[][] A = new int[N][N];
         for(int i=0; i<N; i++) {
-            for(int j=0; j<N; j++) {
+            for(int j=0; j<M; j++) {
                 A[i][j] = input.nextInt();
             }
         }
