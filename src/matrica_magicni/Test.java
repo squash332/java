@@ -52,7 +52,7 @@ public class Test {
             }
         }
 
-        System.out.println(broj+" "+ sumaRed[0]);
+        System.out.println(broj);
 
     }
 }
