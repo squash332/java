@@ -1,4 +1,4 @@
-package drugiZimski2024;
+package vjezbajava;
 /* potrebno je napisati program u javi koji ce ucitanu kvadratnu matricu A ispisati u tzv.
 "zmija uzorku". N koji predstavljaju dimenzije matrice A
 Slijedi N redaka s N stupaca cijelih brojeva koji predstavljaju elemente matrice
